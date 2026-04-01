@@ -1,2 +1,30 @@
-# DataAnalysis-Portfolio
-My resume and data analysis projects
+DataAnalysis-Portfolio
+数据分析作品集 | 数据分析实习生
+👋 About Me
+数据分析师 | 擅长 Python 数据分析、数据可视化、统计建模、机器学习建模关注方向：经济数据分析、环境数据分析、工业质量预测、用户行为分析
+🛠 Tech Stack
+语言：Python、SQL
+库：Pandas、NumPy、Matplotlib、Seaborn、Scikit‑learn
+工具：Jupyter Notebook、Excel、SPSS、Git、Markdown
+方法：描述统计、相关分析、回归分析、聚类、决策树、随机森林
+📊 Projects
+1. 河北省空气质量与经济发展关系研究
+时间：2019–2024
+方法：线性回归、二次多项式回归、模型检验
+结论：PM2.5、NO₂与GDP呈显著非线性关系，符合环境库兹涅茨曲线
+成果：R²=0.752，可用于区域经济与环境协同发展政策参考
+2. 卷烟吸阻质量预测与优化建模
+场景：烟草工业质量控制
+方法：随机森林、线性回归、特征筛选
+成果：R²=0.5729，替代破坏性检测，效率提升80%，年节约成本约71万元
+3. NIPT 时点选择与胎儿异常判定多维度研究
+领域：医疗数据分析、无创产前检测
+方法：混合效应模型、Logistic、随机森林、SMOTE
+成果：女胎异常判定 AUC=0.9242，召回率 84%，可直接用于临床
+4.Z世代棉花娃娃娃衣消费行为分析
+领域：用户研究、亚文化消费
+方法：问卷分析、K‑Means 聚类、有序 Logistic、决策树
+成果：划分 4 类消费者，识别核心决策因素，输出产品与营销策略
+📫 Contact
+Email：1872780867@qq.com
+iphone:17800386930(19030260213)
